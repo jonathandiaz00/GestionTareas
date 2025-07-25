@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea.Api", "Tarea.Api\Tare
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea.Api.Consumer", "Tarea.Api.Consumer\Tarea.Api.Consumer.csproj", "{45000F32-904F-486D-8447-8DA18E7D7D32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tareas.mvc", "Tareas.mvc\Tareas.mvc.csproj", "{3648CC27-F039-48DE-9C77-4FC6E04244D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea.Mvc", "Tarea.Mvc\Tarea.Mvc.csproj", "{FD1E7B3F-C3B5-46BC-B9A7-1989488E45C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{45000F32-904F-486D-8447-8DA18E7D7D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45000F32-904F-486D-8447-8DA18E7D7D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45000F32-904F-486D-8447-8DA18E7D7D32}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3648CC27-F039-48DE-9C77-4FC6E04244D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3648CC27-F039-48DE-9C77-4FC6E04244D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3648CC27-F039-48DE-9C77-4FC6E04244D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3648CC27-F039-48DE-9C77-4FC6E04244D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD1E7B3F-C3B5-46BC-B9A7-1989488E45C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1E7B3F-C3B5-46BC-B9A7-1989488E45C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1E7B3F-C3B5-46BC-B9A7-1989488E45C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1E7B3F-C3B5-46BC-B9A7-1989488E45C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

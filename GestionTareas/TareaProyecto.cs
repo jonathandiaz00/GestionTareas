@@ -16,11 +16,14 @@ namespace GestionTareas
         public DateTime FechaVencimiento { get; set; }
         public int ProyectoId { get; set; }
         public int UsuarioAsignadoId { get; set; }
+        public int ReporteId { get; set; }
 
-        
+
 
         public Proyecto? Proyecto { get; set; }
         public Usuario? UsuarioAsignado { get; set; }
+
+        public Reporte? Reporte { get; set; }
 
     }
 }
